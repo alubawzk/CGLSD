@@ -1,4 +1,5 @@
-## CGLSD
+# Contrast-Guided Line Segment Detection
+## 1. Illustration
 - The constructed RENOIR-LineSegment dataset is available at:  
   https://pan.baidu.com/s/13-c0QEoW0QCQZBLo7DbRrA, code: w0mt.  
   Please download the folder in this link and put it in the root directory. Then, one can run the 'demo_RLS.m' file for a demonstration of the RLS dataset.
