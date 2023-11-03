@@ -5,6 +5,8 @@
   Please download the folder in this link and put it in the root directory. Then, one can run the 'demo_RLS.m' file for a demonstration of the RLS dataset.
 - The experimental result is available at:  
   https://pan.baidu.com/s/1yds1Jogwj8KNTX6V-aohPA, code: ra2d.
-- We will release our line segment detector, the 'CGLSD', once the paper is published.
+
 - Some examples of the RLS are shown as follows.
-![examples](https://github.com/alubawzk/CGLSD/assets/58645426/85ec0ed9-4619-45cd-9a09-e00554cf06fc)
+![examples](https://github.com/alubawzk/CGLSD/assets/58645426/85ec0ed9-4619-45cd-9a09-e00554cf06fc)  
+## 2. How to use
+- We will release our line segment detector, the 'CGLSD', once the paper is published.
