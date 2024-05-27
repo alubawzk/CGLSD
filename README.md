@@ -8,5 +8,3 @@
 
 - Some examples of the RLS are shown as follows.
 ![examples](https://github.com/alubawzk/CGLSD/assets/58645426/85ec0ed9-4619-45cd-9a09-e00554cf06fc)  
-## 2. How to use
-- We will release our line segment detector, the 'CGLSD', once the paper is published.
